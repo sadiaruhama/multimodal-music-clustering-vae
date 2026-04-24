@@ -4,7 +4,7 @@ Bridging Sound and Semantics through Hybrid Audio–Text Representation Learning
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue">
+  <img src="https://img.shields.io/badge/Python-blue">
   <img src="https://img.shields.io/badge/PyTorch-DeepLearning-red">
   <img src="https://img.shields.io/badge/Status-Research-green">
   <img src="https://img.shields.io/badge/License-MIT-yellow">
